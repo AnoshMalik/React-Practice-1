@@ -1,0 +1,23 @@
+{
+  "name": "react-practice-1",
+  "version": "1.0.0",
+  "description": "Code from udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnoshMalik/React-Practice-1.git"
+  },
+  "keywords": [
+    "react",
+    "js"
+  ],
+  "author": "Anosh Malik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnoshMalik/React-Practice-1/issues"
+  },
+  "homepage": "https://github.com/AnoshMalik/React-Practice-1#readme"
+}
